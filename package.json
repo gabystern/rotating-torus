@@ -1,0 +1,19 @@
+{
+  "name": "rotating-torus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabystern/rotating-torus.git"
+  },
+  "author": "gaby stern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabystern/rotating-torus/issues"
+  },
+  "homepage": "https://github.com/gabystern/rotating-torus#readme"
+}
